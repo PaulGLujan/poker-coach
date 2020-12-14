@@ -1,0 +1,8 @@
+.app-container {
+  position: absolute;
+  right: 8.4rem;
+  top: 0.25rem;
+  color: #777;
+  text-transform: uppercase;
+  font-size: 0.5rem;
+}
